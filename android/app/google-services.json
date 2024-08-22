@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1064467940982",
+    "project_id": "flutter-firebase-auth-4d275",
+    "storage_bucket": "flutter-firebase-auth-4d275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064467940982:android:8ab76940d3e2c875d04157",
+        "android_client_info": {
+          "package_name": "com.repairspots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064467940982-iule270rs7vjn7dpk4bdg6bbimmtod41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.repairspots",
+            "certificate_hash": "ab60685c8c05788409142adb5cda5cbd687e5067"
+          }
+        },
+        {
+          "client_id": "1064467940982-pdjsol0hhpm0qnf4phfubkisaa6b2rvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZN5GkkibKfE1yiIfHjnoDXpaODQk4NYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064467940982-pdjsol0hhpm0qnf4phfubkisaa6b2rvd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064467940982-4ndm6rh612utkdn3nb8l2o7ch1hndc5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.repairspots"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

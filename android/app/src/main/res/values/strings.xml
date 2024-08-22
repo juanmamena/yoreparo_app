@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YoReparo</string>
+    <string name="facebook_app_id">268668758887895</string>
+    <string name="fb_login_protocol_scheme">fb268668758887895</string>
+    <string name="facebook_client_token">1f7695aaf900dccbb14f5cc177ac0a68</string>
+</resources>

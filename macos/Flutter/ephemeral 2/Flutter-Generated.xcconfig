@@ -1,0 +1,11 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/juanmamena/Development/flutter
+FLUTTER_APPLICATION_PATH=/Users/juanmamena/Documents/JMMM/Uisrael/2022 FINAL OK/Titulacion/Aplicacion/yoreparoapp/yoreparo_app
+COCOAPODS_PARALLEL_CODE_SIGN=true
+FLUTTER_BUILD_DIR=build
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=.dart_tool/package_config.json
